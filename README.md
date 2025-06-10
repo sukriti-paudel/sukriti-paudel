@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer | React Enthusiast | Bridging Design & Functionality<br>Crafting interactive UIs with React, HTML, CSS & JavaScript<br>Turning ideas into responsive web apps using modern frontend tech<br>Learning MERN STACK
+Frontend Developer | React Enthusiast | Bridging Design & Functionality<br>Crafting interactive UIs with React, HTML, CSS & JavaScript<br>Turning ideas into responsive web apps using modern frontend tech<br>Full Stack in progress
 
 
 ## 🌐 Socials:
